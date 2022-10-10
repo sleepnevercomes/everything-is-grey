@@ -2,7 +2,7 @@ name: everything-is-grey
 displayName: EVERYTHING IS GREY
 author: NEW GIRLFRIEND#1955
 description: CONVERSION OF ALL VANILLA SPRITES TO GREY
-version: 0.02
+version: 0.03
 minGameVersion: 126
 dependencies: []
 hidden: true
