@@ -1,4 +1,4 @@
-<img src="icon.png" width="128px" alt="EVERYTHING IS GREY">
+<img src="logo.png" width="1280px" alt="EVERYTHING IS GREY">
 
 # EVERYTHING IS GREY
 ## Vanilla sprites recoloring project
