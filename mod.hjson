@@ -2,7 +2,7 @@ name: everything-is-grey
 displayName: EVERYTHING IS GREY
 author: NEW GIRLFRIEND#1955
 description: Vanilla decoloring project. 
-version: 0.04a
+version: 0.05a
 minGameVersion: 126
 dependencies: []
 hidden: true
